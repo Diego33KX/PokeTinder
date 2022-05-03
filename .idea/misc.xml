@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_base.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_onboarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/item_back_button.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/PokeTinder/app/src/main/res/layout/item_onboarding.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

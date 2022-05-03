@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PokeTinder</string>
+    <color name="ic_launcher_background">#000000</color>
+    <string name="app_name">PokeTinderNew</string>
 </resources>
